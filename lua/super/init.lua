@@ -6,7 +6,6 @@ local conf = require("telescope.config").values
 local cmds = require("super.commands")
 
 local super = function(opts)
-    vim.notify(vim.inspect(cmds), vim.log.levels.INFO)
     opts = opts or {}
     pickers.new(opts, {
         prompt_title = "search for a neovim command",

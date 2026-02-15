@@ -34,7 +34,7 @@ You can open the command picker in command-line mode, for example with `:Telesco
 Example custom keybind:
 
 ```lua
-vim.keymap.set('n', '<leader>p', require('telescope').extensions.super)
+vim.keymap.set('n', '<leader>p', require('telescope').extensions.super.super)
 ```
 
 # Contributing

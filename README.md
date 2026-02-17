@@ -4,6 +4,8 @@ Super is a command picker extension for [Telescope](https://github.com/nvim-tele
 
 Users can search for Neovim commands using natural language and execute them directly from the Telescope picker.
 
+https://github.com/user-attachments/assets/bd1e0529-5635-41ba-9a42-d4a8bd7dcc67
+
 The aim of this plugin is:
 
 1. To provide a different interface to executing commands, while keeping a

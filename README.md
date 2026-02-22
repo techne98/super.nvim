@@ -1,4 +1,4 @@
-# Super
+# Super.nvim
 
 Super is a command picker extension for [Telescope](https://github.com/nvim-telescope/telescope.nvim).
 

@@ -24,7 +24,7 @@ Add the following code to your [Lazy](https://github.com/folke/lazy.nvim) plugin
 
 ```lua
 {
-  "techne98/super.nvim",
+  "jackwsmth/super.nvim",
   config = false
 }
 ```
